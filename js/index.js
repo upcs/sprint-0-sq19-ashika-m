@@ -1,0 +1,1 @@
+document.body.innerHTML = "<h1>Sum of 10 and 5 is " + d + "</h1>"
