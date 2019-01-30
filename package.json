@@ -1,0 +1,28 @@
+{
+  "name": "sprint-0-sq19-ashika-m",
+  "version": "1.0.0",
+  "description": "addition web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-ashika-m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-ashika-m/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-ashika-m#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}

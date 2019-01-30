@@ -1,1 +1,5 @@
-var d = 10 + 5;
+function sum(a, b) {
+return a + b;
+}
+module.exports = sum;
+

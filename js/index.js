@@ -1,1 +1,1 @@
-document.body.innerHTML = "<h1>Sum of 10 and 5 is " + d + "</h1>"
+document.body.innerHTML = "<h1>Sum of 1 and 2 is " + sum(1,2) + "</h1>"
